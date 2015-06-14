@@ -1,4 +1,4 @@
-# Reproducible Research:Peer Assessment 1
+# Reproducible Research: Peer Assessment 1
 treadrightly  
 `r format(Sys.time(), '%d %B, %Y')`  
 The following code block sets knitr options to ensure that the directory structure is correct when knitted through RStudio, and also defines package dependencies.  
